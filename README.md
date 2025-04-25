@@ -57,15 +57,15 @@
 <div class="container">
     <div class="rank">
         <h2>Rango Kraken</h2>
-        <p>💰 Precio: 1.200.000 monedas</p>
+        <p>💰 Precio: 300.000 monedas</p>
     </div>
     <div class="rank">
         <h2>Rango Poseidon</h2>
-        <p>💰 Precio: 650.000 monedas</p>
+        <p>💰 Precio: 150.000 monedas</p>
     </div>
     <div class="rank">
         <h2>Rango Vulcan</h2>
-        <p>💰 Precio: 350.000 monedas</p>
+        <p>💰 Precio: 75.000 monedas</p>
     </div>
 </div>
 
